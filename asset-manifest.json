@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Yasin-Danur/Netflix-clone/static/css/main.3b0ae2b6.css",
+    "main.js": "/Yasin-Danur/Netflix-clone/static/js/main.a4a67f52.js",
+    "static/media/NetflixLogo.png": "/Yasin-Danur/Netflix-clone/static/media/NetflixLogo.303904f75553a51bbf31.png",
+    "index.html": "/Yasin-Danur/Netflix-clone/index.html",
+    "main.3b0ae2b6.css.map": "/Yasin-Danur/Netflix-clone/static/css/main.3b0ae2b6.css.map",
+    "main.a4a67f52.js.map": "/Yasin-Danur/Netflix-clone/static/js/main.a4a67f52.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3b0ae2b6.css",
+    "static/js/main.a4a67f52.js"
+  ]
+}
